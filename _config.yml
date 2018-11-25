@@ -17,8 +17,8 @@ title: Decision Points
 description: >- # this means to ignore newlines until "baseurl:"
   "Decision Points is an open-group cognitive-behavioral intervention program, pilot-tested and implemented with youth & adult groups in a range of correctional settings."
 tagline: "This is the website tagline"
-baseurl: "/decisionpoints/" # the subpath of your site, e.g. /blog
-url: "https://grantcorley.github.io/decisionpoints/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/decisionpoints" # the subpath of your site, e.g. /blog
+url: "https://grantcorley.github.io/decisionpoints" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings

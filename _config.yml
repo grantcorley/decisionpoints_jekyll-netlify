@@ -20,10 +20,6 @@ tagline: "This is the website tagline"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stoic-benz-b46c2f.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
-pages: "{{site.baseurl}}/_pages"
-header_pages: "{{site.baseurl}}/_pages"
-
-subpages: "{{site.baseurl}}/_pages"
 
 # Build settings
 markdown: kramdown

@@ -1,22 +1,41 @@
-.include{
+/* .include{
   border:1px solid red;
+} */
+
+body{
+  color: #333333;
+  font-family: 'Open Sans', sans-serif;
+  background-color:white;
 }
 
-h1.include{
-  color:red;
-  font-size:.75em;
-  font-weight: bold;
+h1{
+  color:#e9450e; /*dark orange*/
+  font-family: 'Bitter', serif;
 }
+
+h2, h3{
+  color:black;
+  font-family: 'Bitter', serif;
+}
+
+
 
 
 .layout{
-  border:1px dotted green;
+  /* border:1px dotted green; */
 }
+
+
 
 h1.layout{
   color:green;
   font-size: .75em;
   font-weight: bold;
+}
+
+.main-content{
+  padding-top:2em;
+  padding-bottom:5em;
 }
 
 footer{

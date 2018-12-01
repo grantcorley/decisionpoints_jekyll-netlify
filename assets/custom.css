@@ -18,3 +18,8 @@ h1.layout{
   font-size: .75em;
   font-weight: bold;
 }
+
+footer{
+  background-color:black;
+  color:white;
+}
